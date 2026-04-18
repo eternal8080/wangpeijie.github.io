@@ -25,7 +25,7 @@ Before that, I obtained my B.Eng. degree from School of Artificial Intelligence 
 
 I currently focus on the evaluation, reasoning, and formal mathematical reasoning of multimodal large language models.
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - **Ph.D.** @ [MAIS, Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), 2025.02 - 2028.06 (expected)  
   Advisor: Prof. [Fei Yin](https://scholar.google.com/citations?user=CeWCYJYAAAAJ&hl) and Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?hl=en&user=8r3y8IMAAAAJ)
@@ -47,7 +47,9 @@ Advisor: Prof. [Dongrui Wu](https://scholar.google.com/citations?user=UYGzCPEAAA
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Selected Publications & Preprints
+
+<span class='anchor' id='publications'></span>
+# 📝 Publications
 
 <!-- Tab按钮 -->
 <div class="pub-tabs">
@@ -328,6 +330,8 @@ function filterPubs(type, clickedBtn) {
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2026*, Merit Student, Chinese Academy of Sciences
 - *2025*, ICDAR 2025 Competition on Understanding Chinese College Entrance Exam Papers. Second Place.
@@ -341,6 +345,8 @@ function filterPubs(type, clickedBtn) {
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - *2025.09 - Now*, [Future Living Lab, Alibaba](), China.
