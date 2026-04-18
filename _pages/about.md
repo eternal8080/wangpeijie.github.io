@@ -129,23 +129,7 @@ Chao Deng, Jiale Yuan, Pi Bu, **Peijie Wang**, Zhong-Zhi Li, Jian Xu, Xiao-Hui L
 </div>
 </div>
 
-<div class="pub-item publications" markdown="1">
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ACL 2026</div>
-      <img src='images/geoparsing.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-[Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language](https://eternal8080.github.io/geoparsing.github.io/)
-
-**Peijie Wang**, Ming-Liang Zhang, Jun Cao, CHAO DENG, Dekang Ran, Pi Bu, Hongda Sun, Xuan Zhang, Yingyao Wang, Jun Song, Bo Zheng, Fei Yin, Cheng-Lin Liu
-
-  </div>
-</div>
-</div>
 
 <!-- <div class="pub-item preprints" markdown="1">
 <div class='paper-box'>
@@ -183,6 +167,63 @@ Jiasheng Xu, Mingda Li, Yongqiang Tang, **Peijie Wang**, and Wensheng Zhang
 </div>
 </div>
 
+
+<div class="pub-item publications" markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2026</div>
+      <img src='images/geoparsing.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language](https://eternal8080.github.io/geoparsing.github.io/)
+
+**Peijie Wang**, Ming-Liang Zhang, Jun Cao, CHAO DENG, Dekang Ran, Pi Bu, Hongda Sun, Xuan Zhang, Yingyao Wang, Jun Song, Bo Zheng, Fei Yin, Cheng-Lin Liu
+
+  </div>
+</div>
+</div>
+
+
+<div class="pub-item publications" markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2026, Highlight</div>
+      <img src='images/vlmloc.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://arxiv.org/abs/2603.09826)
+
+Shuhao Kang, Youqi Liao, **Peijie Wang**, Wenlong Liao, Qilin Zhang, Benjamin Busam, Xieyuanli Chen, Yun Liu
+
+  </div>
+</div>
+</div>
+
+
+
+<div class="pub-item preprints" markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arxiv</div>
+      <img src='images/mathspacial.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635)
+
+Shuo Lu, Jianjie Cheng, Yinuo Xu, Yongcan Yu, Lijun Sheng, **Peijie Wang**, Siru Jiang, Yongguan Hu, Run Ling, Yihua Shao, Ao Ma, Wei Feng, Lingxiao He, Meng Wang, Qianlong Xie, Xingxing Wang, Nicu Sebe, Ran He, Jian Liang
+  </div>
+</div>
+</div> 
+
 <!-- <div class="pub-item preprints" markdown="1">
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -199,7 +240,7 @@ Jiasheng Xu, Mingda Li, Yongqiang Tang, **Peijie Wang**, and Wensheng Zhang
 
   </div>
 </div>
-</div> -->
+</div>  -->
 
 <!-- Tab样式和交互JS -->
 <style>
