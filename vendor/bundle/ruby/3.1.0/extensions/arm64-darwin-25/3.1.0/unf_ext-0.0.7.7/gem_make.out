@@ -1,0 +1,17 @@
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/Users/wangpeijie/.rbenv/versions/3.1.6/bin/ruby -I /Users/wangpeijie/.rbenv/versions/3.1.6/lib/ruby/3.1.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260113-85472-rzmkkk sitelibdir\=./.gem.20260113-85472-rzmkkk clean
+
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260113-85472-rzmkkk sitelibdir\=./.gem.20260113-85472-rzmkkk
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.3.1'
+
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260113-85472-rzmkkk sitelibdir\=./.gem.20260113-85472-rzmkkk install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20260113-85472-rzmkkk

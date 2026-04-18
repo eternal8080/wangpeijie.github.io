@@ -1,0 +1,20 @@
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/wangpeijie/.rbenv/versions/3.2.0/bin/ruby -I /Users/wangpeijie/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260416-99721-8acvl7 sitelibdir\=./.gem.20260416-99721-8acvl7 clean
+
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260416-99721-8acvl7 sitelibdir\=./.gem.20260416-99721-8acvl7
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260416-99721-8acvl7 sitelibdir\=./.gem.20260416-99721-8acvl7 install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20260416-99721-8acvl7
+
+current directory: /Users/wangpeijie/Desktop/homepage/hongjx175.github.io-main/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260416-99721-8acvl7 sitelibdir\=./.gem.20260416-99721-8acvl7 clean

@@ -1,0 +1,46 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    <div style="text-align: center; margin: 2.5rem 0 1rem 0;">
+    <div id="clustrmaps-widget" style="width: 120px; margin: 0 auto;">
+      <script
+        type="text/javascript"
+        id="clstr_globe"
+        src="//clustrmaps.com/globe.js?d=X9ngv2APu5I1ePfsldZhosFlufnS-mn7Q0qjUpkzLAY">
+      </script>
+    </div>
+
+    <div style="margin-top: 0.8rem; font-size: 1rem;">
+      &copy; Wang Peijie | Last updated: {{ "now" | date: "%B, %Y" }}
+    </div>
+    </div>
+    {% include scripts.html %}
+
+  </body>
+</html>
